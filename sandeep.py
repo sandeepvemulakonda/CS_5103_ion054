@@ -26,7 +26,7 @@ for key in b:
     print("\t",key, '->', b[key])
 
 print("\n")
-#print("unique word count = ",uniqueWordCout(a))
+
 print("\n")
 print("Original text message= ",a)
 print("\n")
